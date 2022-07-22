@@ -15,3 +15,4 @@ Callsigns designed by _<mark style="color:blue;">Sweet</mark>_.
 | UAV ASSETS           | Vampire    |
 | NAVAL ASSETS         | Pelican    |
 | INFANTRY             | Emu        |
+| TARU BIRDS           | Goose      |
