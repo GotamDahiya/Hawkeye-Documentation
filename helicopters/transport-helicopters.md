@@ -6,7 +6,27 @@ The bread and butter of Hawkeye, these birds transport the ground troops to and 
 
 ## MH-6M Littlebird
 
-Want to land in a street, land in the street. Want to land on a pier, land on the pier. Want to land on a roof, land on the roof. Want to land in a clearing, land in the clearing. Want to land in a backyard, land in the backyard. Want to rappel troops, rappel the troops. Want to land on a penguin, land next to it and salute the penguin. Want to pick up light stuff, pick up the light stuff. Want to recon, pick up a co-pilot. Want to shoot stuff, wrong variant.
+> Want to land in a street, land in the street.&#x20;
+>
+> Want to land on a pier, land on the pier.&#x20;
+>
+> Want to land on a roof, land on the roof.&#x20;
+>
+> Want to land in a clearing, land in the clearing.&#x20;
+>
+> Want to land in a backyard, land in the backyard.&#x20;
+>
+> Want to rappel troops, rappel the troops.&#x20;
+>
+> Want to land on a penguin, land next to it and salute the penguin.&#x20;
+>
+> Want to pick up light stuff, pick up the light stuff.&#x20;
+>
+> Want to recon, pick up a co-pilot.&#x20;
+>
+> Want to shoot stuff, wrong variant.
+
+
 
 A very versatile helicopter with the ability to land in very tricky and tight landing zones. Although vunerable to ground fire, its manoeuvrability allows it to escape extremely fast.
 
