@@ -39,6 +39,10 @@ There are two primary variants present in the Unsung mod,
 1. Slick : These models are used for transport of troops and cargo.&#x20;
 2. CAS : There are multiple types of Hueys which provide CAS with different armaments. Limited to no seats for carrying infantry.
 
+### Fuel Usage
+
+The UH-1 Iroquois has a high fuel consumption rate. In about half-an-hour, the helicopter used up about 66% of it's fuel. So, standard procedure is to refuel after every three flights to maintain high operational capability.
+
 ## OH-6A Cayuse
 
 The OH-6A Cayuse is the precursor to the famous MH-6M Littlebirds and it's various variants. It was nicknamed _Loach_ after it's acronym of LOH or Light Observation Helicopter. The OH-6A was used predominatly as a scout for ground troops and as a hunter in conjuction with the AH-1H Cobra.
