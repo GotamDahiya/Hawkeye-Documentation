@@ -60,8 +60,10 @@ LOBL -> Lock On Before Launch
 
 LOAL -> Lock On After Launch. This has two additional settings which are&#x20;
 
-1. LOAL-LOW -> The missiles goes low and skims the surface hunting for the laser.
-2. LOAL-HIGH -> The missile will first shoot up and the level off while hunting for the laser.
+1. LOAL-LOW -> The missiles goes 750m above the helicopter and then starts hunting for the laser.
+2. LOAL-HIGH -> The missile goes 1000m above the helicopter and then starts hunting for the laser.
+
+LOW and HIGH can be used while hiding behind hills.
 
 LOBL has a higher detection arc for the laser end-point than LOAL.
 
