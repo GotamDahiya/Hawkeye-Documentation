@@ -50,7 +50,7 @@ Before take-off check if the weapons are assigned correctly or not.
 
 Section and Team leads are to have laser designators and red smoke ready when requesting for CAS. Hawkeye averages 100knots(200km/h) when flying CAS. Pilots cannot see a BTR in a grid square when flying that fast without exposing themselves dangerously to enemy fire.
 
-A good practice to mark on map where you want the munitions to land, it gives the pilots a good reference for where they are supposed to go. Naming convention will be _countries names_ in red. For example, <mark style="color:red;">MP MEXICO</mark>.
+A good practice to mark on map where you want the munitions to land, it gives the pilots a good reference for where they are supposed to go. Naming convention will be _countries names_ in red. For example, <mark style="color:red;">MP MEXICO</mark>. Only one word to be put, not multiple words.
 
 Laser designators codes are used for marking targets for laser guided munitions, for example hellfires. Ground forces laser designators will be set to <mark style="color:blue;">Channel B,1112,</mark> while helicopter's laser designators will be set to <mark style="color:blue;">Channel A,1111</mark>. DAGRs cannot accurately lase onto a ground laser due to code issues so they will be fired using the helicopter's laser designator.&#x20;
 
