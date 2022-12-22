@@ -96,12 +96,11 @@ If a pod is being sling-loaded or attached to the helicopter, it cannot carry an
 The mod allows the pilot/co-pilot/loadmaster to,
 
 1. Attach the pod to the helicopter.
-2. Sling load the pod at 10m extension.&#x20;
+2. Sling load the pod at 10m extension.
 3. Sling load the pod at 100m extension.
-4. Shorten or lengthen the sling load rope by 10m. This appears at all lenghts between 10m and 100m
+4. Shorten or lengthen the sling load rope by 10m. This olny appears when the rope has been extended to 100m and disappears when the rope length reaches 10.
 5. Ability to parachute the attached pod above 90m AGL. The pod can be parachuted at any speed.
-6. Assault detach the pod above 10m and below 7.5 knots (15 km/h). The pod will detach and land on the ground. The helicopter will automatically start to spool up the pod after 10 seconds on the ground.
 
-To drop off a pod, come to hover at 10-15m above the ground, detach the pod, and then unhook it when the rope length reaches 10m. You can also competely detach the pod using the hook cargo keybind, it will drop the pod completely and the pod and its occupants can get damaged upon hitting the ground.
+To drop off a pod, come to hover at 10-15m above the ground, detach the pod, and then unhook it when the rope length reaches 10m.
 
 If the helicopter has landed on level ground, it is safe to detach/unhook the pod, it will settle below the helicopter and the hit boxes will not intersect. Though this is not recommended.
