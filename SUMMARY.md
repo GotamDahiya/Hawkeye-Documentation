@@ -11,6 +11,7 @@
 * [Transport Helicopters](helicopters/transport-helicopters.md)
 * [Attack Helicopters](helicopters/attack-helicopters.md)
 * [Unsung Helicopters](helicopters/unsung-helicopters.md)
+* [CAS Loadouts](helicopters/cas-loadouts.md)
 
 ## Fixed wings
 
