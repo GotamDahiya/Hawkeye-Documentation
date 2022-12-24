@@ -12,4 +12,30 @@ Apache and Viper share the same weapons systems so their loadouts are combined.
 
 <mark style="color:green;">HELIOS - 1</mark>
 
-<table><thead><tr><th data-type="number">Pylon Number</th><th align="center">Weapons Systems</th><th align="center">Assigned to</th></tr></thead><tbody><tr><td>1</td><td align="center">ATAS/AIM-9</td><td align="center">PILOT</td></tr><tr><td>2</td><td align="center">M229 HYDRA(M261)</td><td align="center">PILOT</td></tr><tr><td>3</td><td align="center"></td><td align="center"></td></tr></tbody></table>
+| Pylon Number |                    Weapons Systems                   | Assigned To |
+| :----------: | :--------------------------------------------------: | :---------: |
+|       1      |     <mark style="color:yellow;">ATAS/AIM-9</mark>    |    PILOT    |
+|       2      | <mark style="color:yellow;">M229 HYDRA (M261)</mark> |    PILOT    |
+|       3      | <mark style="color:blue;">4 x AGM-114K \[ACE]</mark> |   CO-PILOT  |
+|       4      | <mark style="color:blue;">4 X AGM-114K \[ACE]</mark> |   CO-PILOT  |
+|       5      | <mark style="color:yellow;">M229 HYDRA (M261)</mark> |    PILOT    |
+|       6      |     <mark style="color:yellow;">ATAS/AIM-9</mark>    |    PILOT    |
+
+<mark style="color:green;">HELIOS - 2</mark>
+
+| Pylon Number |                    Weapons Systems                   | Assigned To |
+| :----------: | :--------------------------------------------------: | :---------: |
+|       1      |     <mark style="color:yellow;">ATAS/AIM-9</mark>    |    PILOT    |
+|       2      | <mark style="color:yellow;">M229 HYDRA (M261)</mark> |    PILOT    |
+|       3      | <mark style="color:blue;">4 x AGM 114k \[ACE]</mark> |   CO-PILOT  |
+|       4      |     <mark style="color:blue;">DAGR (M299)</mark>     |   CO-PILOT  |
+|       5      | <mark style="color:yellow;">M229 HYDRA (M261)</mark> |    PILOT    |
+|       6      |     <mark style="color:yellow;">ATAS/AIM-9</mark>    |    PILOT    |
+
+<mark style="color:green;">HELIOS - 3</mark>
+
+| Pylon Number |   Weapons System  | Assigned To |
+| :----------: | :---------------: | :---------: |
+|       0      |     ATAS/AIM-9    |             |
+|              | M229 HYDRA (M261) |             |
+|              |                   |             |
