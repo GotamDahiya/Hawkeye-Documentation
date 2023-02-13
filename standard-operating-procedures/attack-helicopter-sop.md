@@ -12,7 +12,11 @@ Before takeoff, the pilot should liaison with Pronto over a pre-defined frequenc
 
 ### Engaging Targets
 
-CAS pilots will only _**engage targets when specified by Pronto and Sunray**_. The only time when CAS pilots can engage without authorisation is for self-defence if hiding does not work.&#x20;
+There are three types of CAS engagements,
+
+1. _Type 1_ : Sighted and Cleared by Pronto.
+2. _Type 2_ : Not Sighted by Pronto but cleared to fire.
+3. _Type 3_ : Cleared hot without clearance from Pronto, free-fire zones. (HVTs are not free fire unless specified.)
 
 It is possible that a HVT is hiding near the AA which the CAS bird is targeting for self-defence, before engaging tell Pronto so that they are informed. If told to disengage, disnegage immediately and run for the safest area and recuperate.
 
