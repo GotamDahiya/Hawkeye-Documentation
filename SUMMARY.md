@@ -14,9 +14,10 @@
 * [Unsung Helicopters](helicopters/unsung-helicopters.md)
 * [CAS Loadouts](helicopters/cas-loadouts.md)
 
-## Group 1
+## Sling Loading
 
-* [Page 1](group-1/page-1.md)
+* [Base Game Sling Load](sling-loading/base-game-sling-load.md)
+* [Sling Load Rigging Mod](sling-loading/sling-load-rigging-mod.md)
 
 ## Fixed wings
 

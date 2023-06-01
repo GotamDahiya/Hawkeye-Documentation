@@ -82,23 +82,7 @@ This section is divided based upon the weight of the explosives present in the b
 
 #### 500LB Bombs
 
-| Bomb Name                     | Guidance    | Notes                        |
-| ----------------------------- | ----------- | ---------------------------- |
-| GBU-12 Paveway II             | Laser       |                              |
-| GBU-12 Paveway II BRU-57      | Laser       |                              |
-| EGBU-12 Paveway II            | Laser + GPS |                              |
-| EGBU-12 Paveway BRU-57        | Laser + GPS |                              |
-| GBU-38 JDAM                   | GPS         |                              |
-| GBU-54 LJDAM                  | Laser + GPS |                              |
-| KGGB                          | GPS         |                              |
-| Mk 82 GPB                     | Unguided    |                              |
-| Mk 82 GPB BLU-111A/b          | Unguided    | Thermally protected coating  |
-| Mk 82 GPB DSU-33              | Unguided    | Radar proximity Airbust      |
-| Mk 82 GPB BLU-111A/B + DSU-33 | Unguided    | Combination of the two above |
-| Mk 82 Snakeye                 | Unguided    | High Drag                    |
-| Mk 82 AIR                     | Unguided    | High Drag                    |
-| Mk 20 Rockeye II              | Unguided    | Cluster                      |
-| CBU-78 Gator                  | Unguided    | Cluter Mine                  |
+<table><thead><tr><th width="249.33333333333331">Bomb Name</th><th width="150">Guidance</th><th>Notes</th></tr></thead><tbody><tr><td>GBU-12 Paveway II</td><td>Laser</td><td></td></tr><tr><td>GBU-12 Paveway II BRU-57</td><td>Laser</td><td></td></tr><tr><td>EGBU-12 Paveway II</td><td>Laser + GPS</td><td></td></tr><tr><td>EGBU-12 Paveway BRU-57</td><td>Laser + GPS</td><td></td></tr><tr><td>GBU-38 JDAM</td><td>GPS</td><td></td></tr><tr><td>GBU-54 LJDAM</td><td>Laser + GPS</td><td></td></tr><tr><td>KGGB</td><td>GPS</td><td></td></tr><tr><td>Mk 82 GPB</td><td>Unguided</td><td></td></tr><tr><td>Mk 82 GPB BLU-111A/b</td><td>Unguided</td><td>Thermally protected coating</td></tr><tr><td>Mk 82 GPB DSU-33</td><td>Unguided</td><td>Radar proximity Airbust</td></tr><tr><td>Mk 82 GPB BLU-111A/B + DSU-33</td><td>Unguided</td><td>Combination of the two above</td></tr><tr><td>Mk 82 Snakeye</td><td>Unguided</td><td>High Drag</td></tr><tr><td>Mk 82 AIR</td><td>Unguided</td><td>High Drag</td></tr><tr><td>Mk 20 Rockeye II</td><td>Unguided</td><td>Cluster</td></tr><tr><td>CBU-78 Gator</td><td>Unguided</td><td>Cluter Mine</td></tr></tbody></table>
 
 #### 1000LB Bombs
 

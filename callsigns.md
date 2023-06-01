@@ -12,7 +12,7 @@ Callsigns designed by _<mark style="color:blue;">Sweet</mark>_.
 | ROTARY WING CAS      | Nightmare  |
 | FIXED WING TRANSPORT | Ghostrider |
 | FIXED WING CAS       | Dagger     |
-| UAV ASSETS           | Vampire    |
+| UAV ASSETS           | Valkyrie   |
 | NAVAL ASSETS         | Pelican    |
 | INFANTRY             | Emu        |
 | TARU BIRDS           | Goose      |
