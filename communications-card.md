@@ -15,6 +15,7 @@ The Short Range frequencies will start from Channel 2 on the short range radio.&
 |  Hawkeye Internal |   <mark style="color:blue;">31</mark>   |  Long Range |
 | Logistics/Air Net |  <mark style="color:yellow;">65</mark>  |  Long Range |
 |      CAS Net      |  <mark style="color:yellow;">87</mark>  |  Long Range |
+|    COMMAND NET    |  <mark style="color:orange;">60</mark>  |  Long Range |
 |    1-1 PLAT NET   |  <mark style="color:orange;">69</mark>  |  Long Range |
 |  1-1 PLAT INT NET | <mark style="color:orange;">69.9</mark> | Short Range |
 |     1-1 Alpha     | <mark style="color:orange;">69.1</mark> | Short Range |

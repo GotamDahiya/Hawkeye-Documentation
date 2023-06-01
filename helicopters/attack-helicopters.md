@@ -76,14 +76,12 @@ Do not use the RHS Hellfires, they are slightly iffy. Plus you have to cycle bet
 {% endhint %}
 
 {% hint style="info" %}
-Keep the laser on at all times, unless the ground troops are designating the target.
-
-The ACE hellfire will automatically switch to LOBL, when the missile detects the laser. Otherwise, it is a LOAL.
+Laser codes for the Apache and Viper will be decided before step off with each CAS bird receiving a different laser code and ground troops will receive their own laser codes.
 {% endhint %}
 
 ## Hind
 
-Friendly-Fire, the devastation of the rockets : https://youtu.be/phcgsnUtuS8
+Friendly-Fire, the devastation of the rockets : [https://youtu.be/phcgsnUtuS8](https://youtu.be/phcgsnUtuS8)
 
 The visibility when in the cockpit is shit, you can see more dials than the outside the windows. It's like sitting in a fish bowl.
 
