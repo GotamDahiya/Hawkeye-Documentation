@@ -10,7 +10,8 @@
 ## Helicopters
 
 * [Transport Helicopters](helicopters/transport-helicopters.md)
-* [Attack Helicopters](helicopters/attack-helicopters.md)
+* [Attack Helicopters](helicopters/attack-helicopters/README.md)
+  * [Guided Munitions](helicopters/attack-helicopters/guided-munitions.md)
 * [Unsung Helicopters](helicopters/unsung-helicopters.md)
 * [CAS Loadouts](helicopters/cas-loadouts.md)
 
