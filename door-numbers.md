@@ -8,5 +8,8 @@ description: Door Numbers chosen by people qualified on the Hatchet H-60
 | :--------: | :---------: |
 |    Orion   |      13     |
 |    Liam    |      07     |
-|    Sabre   |      69     |
 |    Dazza   |      22     |
+|  Beserker  |      14     |
+|   Huenik   |      15     |
+|  Bobberson |             |
+
